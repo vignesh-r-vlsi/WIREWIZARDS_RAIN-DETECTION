@@ -158,15 +158,6 @@ RainGuard/
 
 ---
 
-## Prototype
-
-Add your photos here once they are in the `images` folder.
-
-![Prototype](images/prototype.jpg)
-![Team working on the project](images/team.jpg)
-
----
-
 ## Future Improvements
 
 - Mobile alerts using a Wi-Fi module
